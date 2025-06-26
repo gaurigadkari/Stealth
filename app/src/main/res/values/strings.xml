@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BlankSpace</string>
+    <string name="increment_button">Click me to increment counter</string>
+    <string name="todo_button">Todo</string>
+</resources>

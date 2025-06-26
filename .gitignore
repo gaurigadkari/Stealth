@@ -1,0 +1,87 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Kotlin/Java compile output
+out/
+bin/
+
+# Android Studio auto-generated
+captures/
+.externalNativeBuild/
+
+# APKs
+*.apk
+*.ap_
+
+# NDK
+.cxx/
+*.so
+
+# IntelliJ
+*.log
+*.hprof
+
+# Signing/keystore files
+*.jks
+*.keystore
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Log and crash files
+*.log
+*.stacktrace
+
+# Dependency caches
+.idea/libraries/
+.idea/modules.xml
+
+# Jetpack Compose compiler artifacts
+.kotlinc/
+
+# JetBrains IDE-specific
+.idea/workspace.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# VS Code (if you use it)
+.vscode/
+
+# Compose preview cache
+**/composePreview/
+
+# Firebase / Google Services
+google-services.json
+app/google-services.json
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# Crashlytics
+fabric.properties
+crashlytics.properties
+
+# Others
+*.db
+*.sqlite
+*.realm
+*.tmp
